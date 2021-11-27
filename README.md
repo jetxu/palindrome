@@ -1,1 +1,2 @@
-# palindrome
+# palindrom
+linear time solution for plaindrome
