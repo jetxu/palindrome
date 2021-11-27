@@ -1,2 +1,2 @@
 # palindrom
-linear time solution rather than manancher's algorithms for plaindrome 
+linear time solution rather than Manacher's algorithms for plaindrome 
